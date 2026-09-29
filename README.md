@@ -10,5 +10,5 @@ Doing any and all things mixed reality is what excites me and I've gotten the op
 When I'm not in tech mode, I'm enjoying expressing myself artistically through content-making. 
 I also really love the :poop: emoji.
 
-Connect with me?
+### Connect with me?
 [<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230E76A8.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" />](http://linkedin.com/in/patricia-luc/)
