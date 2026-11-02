@@ -1,6 +1,6 @@
 ### Hey!👋
 
-It's Patricia (or just Pat), a software engineer and creative currently based in Seattle—though trying to get to LA right now.
+It's Patricia (or just Pat), a software engineer and creative.
 
 I recently left [@Microsoft](https://github.com/microsoft), where I helped support architecture that improved storage costs and space for OneDrive and SharePoint.
 Before that, I'd been with [@Meta](https://github.com/facebook) working on XR related projects.
